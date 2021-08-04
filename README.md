@@ -2,8 +2,8 @@
 
 - 😄 Pronomes: ela/dela
 - 🔭 Atualmente trabalho com Helpdesk
-- 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/" target="_blank">ETEC Lauro Gomes</a>
-- 🌱 Estudando Java e Angular no Santander Bootcamp | Fullstack Developer - <a href="https://digitalinnovation.one/" target="_blank">Digital Innovation One
+- 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
+- 🌱 Estudando Java e Angular no Santander Bootcamp | Fullstack Developer - <a href="https://digitalinnovation.one/">Digital Innovation One
 </a> 
  <div>
   <a href="https://github.com/olstayna">
