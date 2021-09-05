@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=olstayna&color=green" alt="olstayna" /> 
-
 <h1 align="center">Bem vindo ao meu Github 👩🏽‍💻</h1>
 <p align="center">Hey! Meu nome é <b>Tayná Oliveira</b>, sou Dev Junior & estudante em constante desenvolvimento!</p>
 <h6 align="center"> (ela/dela) </h6>
@@ -8,7 +6,7 @@
 
 - 🔭 Atualmente trabalho com Helpdesk
 - 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
-- 🌱 Estudando Java e Angular no Santander Bootcamp | Fullstack Developer - <a href="https://digitalinnovation.one/">Digital Innovation One</a> 
+- 🌱 Estudando dotnet C# no Bootcamp everis New Talents - .NET - <a href="https://digitalinnovation.one/">Digital Innovation One</a> 
  
  <div align="center">
   <a href="https://github.com/olstayna">
@@ -17,6 +15,8 @@
 </div>
  
   <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
