@@ -1,6 +1,7 @@
-<h1 align="center">Olá, seja bem vindo ao meu Github</h1>
-<p align="center">Hey! Meu nome é <b>Tayná Oliveira</b>, sou Dev Junior & estudante em constante desenvolvimento!</p>
-<h6 align="center"> (ela/dela) </h6>
+# <img src="https://user-images.githubusercontent.com/67444028/142769377-f02346ad-3e36-43f2-b530-5aaa499331c0.gif" width="35">&nbsp;<b>Olá, seja bem vindo ao meu Github</b>
+<br>
+
+<p>Hey! Meu nome é <b>Tayná Oliveira</b>, sou Dev Junior & estudante em constante desenvolvimento!</p>
 
 <br>
 
