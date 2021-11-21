@@ -1,12 +1,11 @@
-<h1 align="center">Bem vindo ao meu Github 👩🏽‍💻</h1>
+<h1 align="center">Olá, seja bem vindo ao meu Github</h1>
 <p align="center">Hey! Meu nome é <b>Tayná Oliveira</b>, sou Dev Junior & estudante em constante desenvolvimento!</p>
 <h6 align="center"> (ela/dela) </h6>
 
 <br>
 
-- 🔭 Atualmente trabalho com Helpdesk
+- 🔭 Atualmente trabalho como Desenvolvedora Fullstack Junior
 - 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
-- 🌱 Estudando dotnet C# no Bootcamp everis New Talents - .NET - <a href="https://digitalinnovation.one/">Digital Innovation One</a> 
  
  <div align="center">
   <a href="https://github.com/olstayna">
