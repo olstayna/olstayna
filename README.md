@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 Atualmente trabalho como Analista de BI I
+- 🔭 Analista de BI I
 - 👩🏽‍🎓 Estudante de Sistemas de Informação - <a href="https://www.cruzeirodosul.edu.br/">Universidade Cruzeiro do Sul</a>
 - 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
  
@@ -20,6 +20,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 
 </div>
   
