@@ -6,7 +6,7 @@
 <br>
 
 - 🔭 Analista de BI I
-- 👩🏽‍🎓 Estudante de Sistemas de Informação - <a href="https://www.cruzeirodosul.edu.br/">Universidade Cruzeiro do Sul</a>
+- 👩🏽‍🎓 Estudante de Sistemas de Informação - <a href="https://www.usjt.br/">Universidade São Judas Tadeu</a>
 - 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
  
  <div align="center">
