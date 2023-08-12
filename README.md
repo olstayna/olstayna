@@ -1,36 +1,57 @@
-# <img src="https://user-images.githubusercontent.com/67444028/142769377-f02346ad-3e36-43f2-b530-5aaa499331c0.gif" width="35">&nbsp;<b>Olá, seja bem vindo ao meu Github</b>
+[![MasterHead](https://github.com/olstayna/olstayna/assets/67444028/510e879c-c1c3-4fe3-aaf0-73848c9ea9d1)](https://rishavchanda.io)
+# <img src="https://user-images.githubusercontent.com/67444028/142769377-f02346ad-3e36-43f2-b530-5aaa499331c0.gif" width="35">&nbsp;<b>Olá! Seja bem vindo ao meu Github :) </b>
 <br>
 
-<p>Hey! Meu nome é <b>Tayná Oliveira</b>, sou Dev Junior & estudante em constante desenvolvimento!</p>
-
-<br>
-
-- 🔭 Analista de BI I
-- 👩🏽‍🎓 Estudante de Sistemas de Informação - <a href="https://www.usjt.br/">Universidade São Judas Tadeu</a>
-- 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
- 
- <div align="center">
-  <a href="https://github.com/olstayna">
-</div>
- 
-  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-
-</div>
-  
- ##
- 
-<p align="center">
+<h3>Hey! Meu nome é Tayná Oliveira, uma Desenvolvedora FrontEnd apaixonada por tecnologia.</h3>
+<img align="right" alt="Coding" width="350" src="https://i.imgur.com/nfZMb7r.gif">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=olstayna&label=Visualizações&color=0e75b6&style=flat" height="28" width="140" alt="olstayna" /> 
 <a href="https://www.linkedin.com/in/olstayna/"><img src="https://img.shields.io/badge/-LINKEDIN-252526?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:tayna.oliveira.santana@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-252526?style=for-the-badge&logo=gmail"></a>
 <a href="https://discord.com/users/9734"><img src="https://img.shields.io/badge/-DISCORD-252526?style=for-the-badge&logo=discord"></a>
 <a href="https://www.instagram.com/doctypes/"><img src="https://img.shields.io/badge/-INSTAGRAM-252526?style=for-the-badge&logo=instagram"></a>
 </p>
+
+<br>
+
+- 🔭 Desenvolvedora Front End
+- 👩🏽‍🎓 Estudante de Sistemas de Informação - <a href="https://www.usjt.br/">Universidade São Judas Tadeu</a>
+- 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+ </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+ </a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+ </a> 
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+ </a> 
+ <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+ </a>  
+ <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+ </a> 
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+ </a>  
+</p>
+ 
+<h3 align="left">Banco de Dados:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
+
  
   ![Snake animation](https://github.com/olstayna/olstayna/blob/output/github-contribution-grid-snake.svg)
  
-</div>
