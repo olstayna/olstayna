@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=olstayna&label=Visualizações&color=0e75b6&style=flat" height="28" width="140" alt="olstayna" /> 
 <a href="https://www.linkedin.com/in/olstayna/"><img src="https://img.shields.io/badge/-LINKEDIN-252526?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:tayna.oliveira.santana@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-252526?style=for-the-badge&logo=gmail"></a>
-<a href="https://discord.com/users/9734"><img src="https://img.shields.io/badge/-DISCORD-252526?style=for-the-badge&logo=discord"></a>
 <a href="https://www.instagram.com/doctypes/"><img src="https://img.shields.io/badge/-INSTAGRAM-252526?style=for-the-badge&logo=instagram"></a>
 </p>
 
