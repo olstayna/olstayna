@@ -14,7 +14,8 @@
 <br>
 
 - 🔭 Desenvolvedora Front End
-- 👩🏽‍🎓 Estudante de Sistemas de Informação - <a href="https://www.usjt.br/">Universidade São Judas Tadeu</a>
+- 👩🏽‍🎓 Estudante de Sistemas de Informação - <a href="https://www.usjt.br/">Universidade Cidade de São Paulo</a>
+- 👩🏽‍🎓 Especialização Técnica em Gestão de Projetos - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
 - 👩🏽‍🎓 Técnica em Informática para Internet - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
