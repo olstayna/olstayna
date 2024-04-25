@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/olstayna/olstayna/assets/67444028/510e879c-c1c3-4fe3-aaf0-73848c9ea9d1)](https://rishavchanda.io)
+![Cover](https://github.com/olstayna/olstayna/assets/67444028/ed598538-0b15-4e35-b151-26dbbceef63d)
 # <img src="https://user-images.githubusercontent.com/67444028/142769377-f02346ad-3e36-43f2-b530-5aaa499331c0.gif" width="35">&nbsp;<b>Olá! Seja bem vindo ao meu Github :) </b>
 <br>
 
