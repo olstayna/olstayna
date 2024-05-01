@@ -3,6 +3,7 @@
 <br>
 
 <h3>Hey! Meu nome é Tayná Oliveira, uma Desenvolvedora FrontEnd apaixonada por tecnologia.</h3>
+<h4>Meu portfólio: https://tayna-santana.vercel.app/</h4>
 <img align="right" alt="Coding" width="350" src="https://i.imgur.com/nfZMb7r.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=olstayna&label=Visualizações&color=0e75b6&style=flat" height="28" width="140" alt="olstayna" /> 
