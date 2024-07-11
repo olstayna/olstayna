@@ -2,7 +2,7 @@
 # <img src="https://user-images.githubusercontent.com/67444028/142769377-f02346ad-3e36-43f2-b530-5aaa499331c0.gif" width="35">&nbsp;<b>Olá! Seja bem vindo ao meu GitHub :) </b>
 
 <p>Sou uma Desenvolvedora Front End, e atualmente estou cursando o Bacharelado em Sistemas de Informação na Universidade Cidade de São Paulo (UNICID). Sou Técnica em Informática para Internet pela ETEC Lauro Gomes (ETELG), onde também realizei o curso de Especialização Técnica de Nível Médio em Gestão de Projetos.</p>
-<p>Não deixe de conferir meu portfólio: https://tayna-santana.vercel.app/ e de entrar em contato:</p>
+<p>Não deixe de conferir meu portfólio: https://taynasantana.com.br/ e de entrar em contato:</p>
 <p> 
 <a href="https://www.linkedin.com/in/olstayna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
 <a href="mailto:tayna.oliveira.santana@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>
