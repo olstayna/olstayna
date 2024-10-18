@@ -9,9 +9,9 @@
 </p>
 
 ## Áreas de Conhecimento
-  * Experiência em desenvolvimento de projetos completos, desde o front-end até o back-end.</li>
-  * Construção de interfaces responsivas e acessíveis.</li>
-  * Business Intelligence</li>
+  * Experiência em desenvolvimento de projetos completos, desde o front-end até o back-end;</li>
+  * Construção de interfaces responsivas e acessíveis;</li>
+  * Business Intelligence;</li>
   * SEO, CRO e Usabilidade para otimizar a taxa de conversão e melhorar o desempenho, rankeamento e visibilidade das páginas/sites nos mecanismos de busca.
 
 ## Tecnologias
